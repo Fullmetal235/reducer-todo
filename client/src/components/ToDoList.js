@@ -1,6 +1,6 @@
 import React, {useReducer} from 'react'
 
-import ToDo from './todo.js'
+import ToDo from './ToDo.js'
 
 
 const TodoList = ({state}) => {
