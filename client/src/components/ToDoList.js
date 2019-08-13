@@ -8,7 +8,7 @@ const TodoList = ({state}) => {
    
     
     return(<div>
-            <h2>Here is my personal List</h2>
+            <h2>Go Nottingham Forest!</h2>
             {state.map(item => 
               <ToDo key={item.id} item={item}
                />  
